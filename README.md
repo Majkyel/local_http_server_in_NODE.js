@@ -4,7 +4,7 @@ I created local http server.
 
 ## Task-13.8
 
-In this task I created local http server. I used file system module to load index.html content and /images content and http module to create local server. If you enter to /index.html you look communicate 'Hello dear user!' but if you enter to other address you lokk picture with error.
+In this task I created local http server. I used file system module to load index.html content and /images content. I used http module to create local server. If you enter to /index.html you look communicate 'Hello dear user!' but if you enter to other address you look picture with error.
  
 ## SOURCE 
 While creating the project I used: 
